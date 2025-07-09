@@ -20,3 +20,5 @@ let friuts = ['oranges', 'mangoes', 'ovacado', 'pawpaw']
 console.log(cars.benz)
 console.log(typeof cars)
 console.log(typeof friuts)
+
+console.log(5 === 6)
